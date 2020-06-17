@@ -7,3 +7,7 @@ Throughout the films, McClane is known for his catchphrase, "Yippee\-ki\-yay, mo
 * just another American who thinks he's John Wayne
 * vigilantism and disregard for authority
 * reluctant hero
+
+John McClane says:
+> This is my phrase
+> Yippee-ki-yay, motherfucker.
