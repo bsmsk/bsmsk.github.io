@@ -1,1 +1,1 @@
-#John McClane - Stirbt langsamer als andere Helden
+# John McClane \- Stirbt langsamer als andere Helden
