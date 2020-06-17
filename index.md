@@ -8,6 +8,6 @@ Throughout the films, McClane is known for his catchphrase, "Yippee\-ki\-yay, mo
 * vigilantism and disregard for authority
 * reluctant hero
 
-As John McClane says:
-
->"Yippee\-ki\-yay, motherfucker"
+John McClane says:
+> This is my phrase
+> Yippee-ki-yay, motherfucker.
