@@ -11,3 +11,5 @@ Throughout the films, McClane is known for his catchphrase, "Yippee\-ki\-yay, mo
 John McClane says:
 > This is my phrase
 > Yippee-ki-yay, motherfucker.
+
+<img src"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Die_070807105411638_wideweb_300x375.jpg/220px-Die_070807105411638_wideweb_300x375.jpg"/>
